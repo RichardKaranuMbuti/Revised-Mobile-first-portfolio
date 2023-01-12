@@ -211,9 +211,9 @@ Example:
 
 👤 **RICHARD KARANU**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- GitHub: [@RichardKaranuMbuti](https://github.com/githubhandle)
+- Twitter: [@@RichardKaranuMbuti](https://twitter.com/twitterhandle)
+- LinkedIn: [RichardKaranuMbuti](https://linkedin.com/in/linkedinhandle)
 
 
 
