@@ -1,0 +1,97 @@
+/* @media all and (max-width: 768px) { */
+* {
+  font-family: sans-serif;
+  margin: 0;
+  padding: 0%;
+  box-sizing: border-box;
+}
+
+body {
+  width: 100vw;
+  height: auto;
+}
+
+.coverpage {
+  width: 100vw;
+  height: auto;
+  margin-bottom: 6rem;
+  padding: 1%;
+  background-color: white;
+  border-bottom-left-radius: 80px;
+}
+
+.logo {
+  color: #6070ff;
+  font-style: italic;
+  font-weight: 700;
+  font-size: 20px;
+  text-decoration: none;
+}
+
+.introname {
+  height: auto;
+  width: 95vw;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 52px;
+  color: #172b4d;
+  text-align: left;
+  padding-bottom: 3rem;
+}
+
+.intro {
+  width: 95vw;
+  height: auto;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 24px;
+  color: #344563;
+  text-align: left;
+  margin-bottom: -8%;
+  margin-top: -50px;
+}
+
+.connect {
+  color: #7f8cff;
+  font-weight: 550;
+  font-size: 16px;
+  line-height: 24px;
+  padding-left: 1%;
+  margin-top: 10%;
+}
+
+.topheader {
+  width: 95vw;
+  height: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.media-links {
+  display: flex;
+  justify-content: flex-start;
+  gap: 20px;
+  list-style: none;
+  margin-top: 1 rem;
+  margin-left: 0.5rem;
+  font-size: 24px;
+}
+
+.fa {
+  color: #505f79;
+}
+
+.backgroundimg {
+  background-image: url(images/header-shapes\ mobile.png);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  top: 103.99993896px;
+  margin-bottom: 6rem;
+}
+
+.togglenav {
+  width: 18px;
+  height: 12px;
+  align-self: center;
+}
